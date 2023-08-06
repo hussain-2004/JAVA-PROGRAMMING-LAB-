@@ -1,0 +1,10 @@
+ /* com
+└── shopping
+    ├── products
+    │   └── Product.java
+    └── orders
+        └── Order.java */
+
+//java program to demonstrate nested packages.
+
+        
